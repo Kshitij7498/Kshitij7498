@@ -428,7 +428,6 @@ Basic System Design
 
 </div>
 
-> ### **"Day 1 hits hard, but I must keep going until that One Day."**
 
 ---
 
