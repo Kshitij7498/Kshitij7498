@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://github.com/Kshitij7498">
-    <img src="https://img.shields.io/badge/GitHub-Kshitij7498-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=red" />
   </a>
   <a href="www.linkedin.com/in/kshitij-raghatate-a39722275">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=green" />
   </a>
   <a href="[kshitijraghatate7498@gmail.com](mailto:kshitijraghatate7498@gmail.com)">
-    <img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Kshitij7498&style=for-the-badge&color=6366f1" />
 </p>
